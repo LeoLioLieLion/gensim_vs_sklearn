@@ -1,5 +1,5 @@
 # gensim_vs_sklearn
-Сравнение gensim и scikit-learn
+Сравнение LDA gensim и scikit-learn
 
 Датасет: [https://ai.upgreat.one/upload/iblock/2e4/final-rus-ds.zip]
 
